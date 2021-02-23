@@ -1,0 +1,8 @@
+{
+    "name": "NarutoDex",
+    "theme_color": "#fdc355",
+    "background_color": "#061725",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+  }
