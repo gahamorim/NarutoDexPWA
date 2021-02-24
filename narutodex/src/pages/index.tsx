@@ -1,7 +1,14 @@
+import Head from 'next/head';
+
 export default function Home() {
   return (
     <div>
-      <h1>TESTANDO PWA</h1>
+      <Head>
+        <title>NarutoDex</title>
+      </Head>
+      <div>
+        <h1>TESTANDO PWA</h1>
+      </div>
     </div>
   )
 }
