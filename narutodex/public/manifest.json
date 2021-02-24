@@ -1,8 +1,9 @@
 {
+    "short_name": "NarutoDex",
     "name": "NarutoDex",
     "theme_color": "#fdc355",
     "background_color": "#061725",
-    "display": "browser",
+    "display": "standalone",
     "scope": "/",
-    "start_url": "/"
+    "start_url": "/?source=pwa"
   }
